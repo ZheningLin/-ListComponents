@@ -1,12 +1,12 @@
 # Vue-ListComponents
 
-      [预览](https://zheninglin.github.io/Vue-ListComponents/audit_user.html)  
+[预览](https://zheninglin.github.io/Vue-ListComponents/audit_user.html)  
 
 # 使用到的技术或框架
 - Vue.js (2.0) 一套基于 MVVM 的 progressive framework，可以帮助我们迅速搭建用户界面
 - semantic UI 一套漂亮的 UI 框架
 - localStorage HTML5 的本地存储 API 之一（另一个为 sessionStorage），顾名思义， localStorage 保存在当前设备内存中，除非主动删除，否则一直存在
-<!-- more -->
+
 # 准备工作
 - 安装 Vue 2.0 (rc.6)
 - 引入 semantic.js 文件
