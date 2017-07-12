@@ -1,7 +1,5 @@
 # Vue-ListComponents
- [预览](https://zheninglin.github.io/Vue-ListComponents/audit_user.html)  
-
-> 本文仅讲解如何使用 Vue 创建一个实现分页、搜索、批量操作的列表组件，所以只提供此小组件的代码及说明，不提供其之外的代码或配置
+      [预览](https://zheninglin.github.io/Vue-ListComponents/audit_user.html)  
 
 # 使用到的技术或框架
 - Vue.js (2.0) 一套基于 MVVM 的 progressive framework，可以帮助我们迅速搭建用户界面
